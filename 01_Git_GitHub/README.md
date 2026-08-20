@@ -35,7 +35,7 @@ Ex) git commit -m "메시지"
 ## 10. git pull: GitHub에 있는 최신 내용을 내 컴퓨터로 가져옵니다 
 GitHub → git pull → 내 컴퓨터
 ## 11. git clone: GitHub에 있는 Repository를 처음으로 내 컴퓨터에 복사합니다
-git clone Repository_URL, 
+git clone Repository_URL 
 Ex) git clone https://github.com/username/LLM_study.git
 
 📌 12. 자주 사용하는 Git 명령어
