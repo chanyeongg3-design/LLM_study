@@ -23,6 +23,6 @@
 👉 [딥러닝 학습 폴더](./06_Deep_Learning/)
 
 ### 7️⃣ TIL
-👉 [TIL](./07_TIL/)
+👉 [TIL](./Today_TIL/)
 
 
