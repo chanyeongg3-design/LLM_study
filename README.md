@@ -20,7 +20,7 @@
 
 ## 📓 TIL 한눈에 보기
 
-매일의 학습 기록 **43편**(2026-08-11 ~ 2026-11-12)을 [TIL 목차](<./Today_TIL/README.md>)에서 주제별로 볼 수 있습니다.
+매일의 학습 기록 **44편**(2026-08-11 ~ 2026-11-14)을 [TIL 목차](<./Today_TIL/README.md>)에서 주제별로 볼 수 있습니다.
 
 | 단계 | 주제 | 기간 |
 | :-: | :--- | :--- |
@@ -34,7 +34,7 @@
 | 8 | [프롬프트 엔지니어링 (KANT Project 2)](<./Today_TIL/README.md#phase-8>) | 10/23 ~ 10/23 |
 | 9 | [RAG 심화 · Context Engineering](<./Today_TIL/README.md#phase-9>) | 10/26 ~ 10/29 |
 | 10 | [LLMOps (Langfuse · 평가)](<./Today_TIL/README.md#phase-10>) | 10/30 ~ 11/03 |
-| 11 | [KANT Project 3 (Retriever)](<./Today_TIL/README.md#phase-11>) | 11/05 ~ 11/12 |
+| 11 | [KANT Project 3 (Retriever)](<./Today_TIL/README.md#phase-11>) | 11/05 ~ 11/14 |
 
 📘 부록: [KANT PROJECT 3 통합 가이드](<./Today_TIL/KANT_PROJECT3_통합가이드.md>)
 
