@@ -4,7 +4,7 @@
 
 | 기록 수 | 기간 | 부록 |
 | :-: | :-: | :-: |
-| **43편** | 2026-08-11 ~ 2026-11-12 | 통합 가이드 1편 |
+| **44편** | 2026-08-11 ~ 2026-11-14 | 통합 가이드 1편 |
 
 ## 🧭 학습 흐름
 
@@ -24,7 +24,7 @@
 | 8 | [프롬프트 엔지니어링 (KANT Project 2)](#phase-8) | 10/23 ~ 10/23 | 1 |
 | 9 | [RAG 심화 · Context Engineering](#phase-9) | 10/26 ~ 10/29 | 5 |
 | 10 | [LLMOps (Langfuse · 평가)](#phase-10) | 10/30 ~ 11/03 | 3 |
-| 11 | [KANT Project 3 (Retriever)](#phase-11) | 11/05 ~ 11/12 | 2 |
+| 11 | [KANT Project 3 (Retriever)](#phase-11) | 11/05 ~ 11/14 | 3 |
 
 ---
 
@@ -147,6 +147,7 @@
 | :--- | :--- | :--- |
 | [2026-11-05](<./2026-11-05.md>) | KANT PROJECT 3 – DAY 1 개발 일지 | 프로젝트 구조, Retriever 세 가지 검색 방식, 개발 전 준비 |
 | [2026-11-12](<./2026-11-12.md>) | Retriever 전체 정리 | Naive/Hybrid/Hybrid+Rerank, 실험 결과, Latency, 면접 질문 10가지 |
+| [2026-11-14](<./2026-11-14.md>) | KANT Project 3 마무리: Retriever 비교와 회고 | Naive/Hybrid/Hybrid+Rerank 결과, k=10 선택, 팀워크·협업에서 배운 점 |
 
 ---
 
